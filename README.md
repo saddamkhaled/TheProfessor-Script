@@ -3,10 +3,11 @@ TheProfessor-Scanner script will show your internal IP¨and your Public IP.Then 
 
 ![alt text](https://i.imgur.com/wgKNNrU.png)
 
-# Requirements
+## Requirements
 Python3
-
-# License
+## Usage
+`Python3 TPS-script.py`
+## License
 This project is licensed under the MIT License
 
 
